@@ -1,17 +1,14 @@
 ---
-
 title: Introducción a los Fundamentos de Programación con Javascript
 tags:
-
-* fundamentos de programación
-* javascript
-  authors:
-* martafagundez
-  description: >-
+  - fundamentos de programación
+  - javascript
+authors:
+  - martafagundez
+description: >-
   ¡Bienvenido a la programación! Descubre por qué es importante hoy, explora el
   poder de JavaScript y comienza tu camino desde los fundamentos hasta las
   habilidades prácticas. ¡Empieza a crear algo increíble hoy!
-
 ---
 
 <!--hide-->

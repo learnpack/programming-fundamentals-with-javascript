@@ -63,19 +63,16 @@ By the end of this course, you'll have developed a new way of thinking. You'll b
 
 **Please ask for help when you need it.** The best programmers know when to ask for help. Don't be afraid of not knowing something or making mistakes—mistakes are part of learning.
 
-When you feel stuck after trying to solve a problem for a few minutes, ask in our Slack channel [#Public_Support](https://4geeksacademy.slack.com/archives/CAZ9W99U4). But first, read these tips on [how to ask programming questions](https://4geeks.com/how-to/how-to-ask-programming-questions).
-
 ![Your support network is here](https://raw.githubusercontent.com/mfagundez-4geeks/learnpack-lessons/refs/heads/main/Programming%20Fundamentals%20with%20Javascript/intro/assets/images/ij%C3%B1vae33665.jpg)
 
 ## Tools You'll Need
 
 We've curated a list of essential tools to save you time. Some are mandatory, others are optional. Trust us: they'll make your life much easier.
 
-| MANDATORY TOOLS                                           | ADDITIONAL LEARNING RESOURCES  |
-| --------------------------------------------------------  | ------------------------  |
-| [Github.com](https://github.com)                          | [StackOverflow](https://stackoverflow.com) |
-| [Slack.com (desktop & mobile)](4geeksacademy.slack.com)   | [w3Schools.com](https://w3schools.com) |
-| [Gitpod](https://gitpod.io/) or [Codespaces](https://github.com/features/codespaces) | [Net Ninja JS Tutorial](https://www.youtube.com/watch?v=qoSksQ4s_hg) |
+| MANDATORY TOOLS                                           |
+| --------------------------------------------------------  | 
+| [Github.com](https://github.com)                          |
+| [Install Node.js in your computer](https://4geeks.com/how-to/install-nvm-on-every-operating-system)   |
 
 ## You're Ready to Begin
 

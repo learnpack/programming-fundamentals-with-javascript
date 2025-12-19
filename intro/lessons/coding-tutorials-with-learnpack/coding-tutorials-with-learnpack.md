@@ -26,65 +26,59 @@ Instead of watching a video or reading an article, LearnPack presents small chal
 
 ## How to use LearnPack?
 
-LearnPack is flexible and can run in different ways. Here's how to start, from the easiest to the most advanced option:
+LearnPack can work in two main ways:
 
-### 1. In your browser (recommended for beginners)
+### Option 1: In your browser (recommended for beginners)
+
+![](https://raw.githubusercontent.com/learnpack/programming-fundamentals-with-javascript/refs/heads/main/intro/lessons/coding-tutorials-with-learnpack/assets/images/learnpack-exercise-browser.png)
 
 This is the **simplest way** to use LearnPack. You don't need to install anything!
 
 **How to start:**
+![](https://raw.githubusercontent.com/learnpack/programming-fundamentals-with-javascript/refs/heads/main/intro/lessons/coding-tutorials-with-learnpack/assets/images/learnpack-exercise-in-browser.png)
 - Click the button that says **"Start interactive exercise"** (or **"Continue interactive exercise"** if you started before)
-![](#)
 - The exercise will open directly in your browser
-![](#)
 - Start learning and practicing right away!
 
 This option is perfect when you're just beginning. Everything works automatically, and you can focus 100% on learning.
 
-### 2. In a Codespace (when exercises need more tools)
+### Option 2: In a code editor (IDE)
 
-Some exercises require working in a more complete environment. In these cases, you'll use what's called a **Codespace** - think of it as a prepared workspace in the cloud.
+![](https://raw.githubusercontent.com/learnpack/programming-fundamentals-with-javascript/refs/heads/main/intro/lessons/coding-tutorials-with-learnpack/assets/images/learnpack-exercise-ide.png)
+
+Some exercises require working in a code editor (also called IDE). This gives you a more complete workspace. You have two ways to do this:
+
+#### A) In the cloud (Codespace) - Recommended
 
 **How to start:**
+![](https://raw.githubusercontent.com/learnpack/programming-fundamentals-with-javascript/refs/heads/main/intro/lessons/coding-tutorials-with-learnpack/assets/images/learnpack-exercise-locally.png)
 - Click the button that says **"Open locally on your computer"**
-![](#)
 - Click the button that says **"Open on the cloud"**
-![](#)
 - Choose if you want to start from the beginning or continue from where you left off
-![](#)
 - Click the button that says **"Create codespace"**
-![](#)
-- The Codespace will set up automatically (this takes a few seconds the first time)
-- Everything you need will be ready to use 
+- Wait a few seconds while everything sets up automatically
+- Everything you need will be ready to use!
 
-![](#)
+**Why choose this option?** Everything is configured automatically and you don't need to install anything on your computer.
 
-**Restarting LearnPack:**
-If you cannot find the instructions on the right, you can start the exercises again by typing: `learnpack start` on the terminal.
-```
-learnpack start
-```
-
-### 3. On your own computer (advanced option)
-
-If you prefer working directly on your computer using programs like VS Code or Cursor, you can do that too. This option requires installing some programs first.
+#### B) On your own computer - Advanced
 
 **How to start:**
 - Click the button that says **"Open locally on your computer"**
-![](#)
-- Click the button that says **"Open locally on your computer"**
-![](#)
-- When you choose this option, you'll see step-by-step instructions with videos
-![](#)
-- Follow the videos to install what you need
+- Click the button that says **"Open locally on your computer"** again
+- Follow the step-by-step instructions with videos
+- Install the programs you need
 - Once everything is set up, you can work offline
 
-**Restarting LearnPack:**
-If you cannot find the instructions on the right, you can start the exercises again by typing: `learnpack start` on the terminal.
+**Why choose this option?** You can work without internet and have full control, but it requires initial setup.
+
+#### Restarting LearnPack (for both A and B)
+
+If you cannot find the instructions on the right side of your screen, you can start the exercises again by typing this in the terminal:
 ```
 learnpack start
 ```
 
 ---
 
-**Not sure which option to choose?** Don't worry! Your instructor or the course itself will guide you on which environment to use. Most beginners start with cloud options since they require zero setup.
+**Not sure which option to choose?** Don't worry! Your instructor or the course itself will guide you on which environment to use. Most beginners start with Option 1 (in your browser) since it requires zero setup.

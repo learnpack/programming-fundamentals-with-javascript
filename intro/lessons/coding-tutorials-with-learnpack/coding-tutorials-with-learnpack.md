@@ -28,7 +28,7 @@ Instead of watching a video or reading an article, LearnPack presents small chal
 
 LearnPack can work in two main ways:
 
-### Option 1: In your browser (recommended for beginners)
+### Option 1: In your browser
 
 ![](https://raw.githubusercontent.com/learnpack/programming-fundamentals-with-javascript/refs/heads/main/intro/lessons/coding-tutorials-with-learnpack/assets/images/learnpack-exercise-browser.png)
 
